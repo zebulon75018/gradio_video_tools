@@ -7,7 +7,7 @@ First step trim a video.
  * use a range scale
  * add the option to cut 
 
-#requierement 
+# requierement 
 
 * gradio 
 * moviepy
